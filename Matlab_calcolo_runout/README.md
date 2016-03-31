@@ -1,4 +1,4 @@
-#Procedura_Runout_1.0
+#Procedura Runout 1.0.0
 
 #Complete MCR e Web Installer
 
@@ -13,4 +13,4 @@ Testato su DTM regionale (Veneto) 5 metri.
 
 Versioni del software fornite: Completa con MCR Matlab e Web Installer.
 
-Eseguibili scaricabili al seguente link: https://github.com/HydrogeomorphologyTools/Procedura-DF/releases
+#Eseguibili scaricabili al seguente link: https://github.com/HydrogeomorphologyTools/Procedura-DF/releases
